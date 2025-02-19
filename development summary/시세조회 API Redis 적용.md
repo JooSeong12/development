@@ -41,7 +41,7 @@ redis:
 
 # Configuration 클래스 설정
 
-![Image](image/Pasted%20image%2020241220094057.png)
+![Image](https://github.com/JooSeong12/development/blob/master/image/Pasted%20image%2020241220094057.png)
 
 **RedisConnectionFactory**
 Redis 서버와 연결을 생성 및 관리해주는 인터페이스

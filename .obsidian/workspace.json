@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "08b9427db4d993f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8054df66dc0b72d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d88a4e7b14fbe60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a48c56bd65b829c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca929d51d778499a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a49907d1cccc4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d79c58502996defe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "a2e33860decea363",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "a768f1168b1bf398",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2557f1d6fda328ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c6765dcee76fd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e503795fd779ab05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "00c8dae6fdf50b1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "54ceba07315d8890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "be8cbf9a8808691f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "d1a6c675bda9c354",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4d88a4e7b14fbe60",
+  "lastOpenFiles": [
+    "image/Pasted image 20250219145631.png",
+    "image/Pasted image 20250219110926.png",
+    "image/Pasted image 20250219110711.png",
+    "image/Pasted image 20250219110527.png",
+    "image/Pasted image 20250218181001.png",
+    "image/Pasted image 20250218175033.png",
+    "image/Pasted image 20250218174929.png",
+    "image/Pasted image 20241220122502.png",
+    "image/Pasted image 20241220121849.png",
+    "image/Pasted image 20241220120710.png",
+    "image/Pasted image 20241220105112.png",
+    "image/HF-DT-20 테스트 수행내역서_부동산 시세조회 API Redis 적용.xlsx",
+    "image",
+    "개발 정리/연체채권 현황 자동화 페이지.md",
+    "development summary/조회 권한 없을 시 Exception 처리.md",
+    "development summary/페이스토리(PG) 연동 API 정리.md",
+    "development summary/연체채권 현황 자동화 페이지.md",
+    "development summary/시세조회 API Redis 적용.md",
+    "development summary/개발 정리.md",
+    "development summary/가상계좌 예치금 미일치 회원 데이터 최신화 .md",
+    "development summary/RequestRejectedException(Referer Header 인코딩) 처리.md",
+    "development summary/PETI 자동화 페이지.md",
+    "development summary/CPC 자동화 페이지.md",
+    "development summary",
+    "Tags",
+    "개발 정리/PETI 자동화 페이지.md",
+    "개발 정리/RequestRejectedException(Referer Header 인코딩) 처리.md",
+    "이미지/HF-DT-20 테스트 수행내역서_부동산 시세조회 API Redis 적용.xlsx",
+    "환영합니다!.md",
+    "이미지",
+    "새 폴더",
+    "개발 정리/조회 권한 없을 시 Exception 처리.md",
+    "개발 정리/시세조회 API Redis 적용.md",
+    "개발 정리/개발 정리.md",
+    "개발 정리/가상계좌 예치금 미일치 회원 데이터 최신화 .md",
+    "개발 정리/CPC 자동화 페이지.md",
+    "개발 정리/페이스토리(PG) 연동 API 정리.md",
+    "개발 정리"
+  ]
+}
